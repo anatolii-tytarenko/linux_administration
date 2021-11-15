@@ -1,1 +1,1 @@
-find -L /etc/ | tee task_11.output
+find -L /etc/ 2>&- | tee task_11.output

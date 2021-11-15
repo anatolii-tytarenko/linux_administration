@@ -1,4 +1,2 @@
-cd /tmp/
-rm -r other_test_dir_a/ other_test_dir_1/ test_dir_a/ test_dir_b/ test_dir_c/ test_dir_9/ test_dir_d/
-rm file_is_not_strange
-cd -
+rm -r /tmp/other_test_dir_a/ /tmp/other_test_dir_1/ /tmp/test_dir_a/ /tmp/test_dir_b/ /tmp/test_dir_c/ /tmp/test_dir_9/ /tmp/test_dir_d/
+rm -f /tmp/file_is_not_strange
