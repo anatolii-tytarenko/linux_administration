@@ -1,0 +1,1 @@
+find ./ -type d \( -iname "*test_dir*"  ! -iname "test_dir_1" ! -name "test_dir_f" \) -exec cp -R {} dst/ \;

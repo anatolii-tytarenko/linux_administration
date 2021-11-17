@@ -1,0 +1,1 @@
+cp some_strange_file -f /tmp/file_is_not_strange
