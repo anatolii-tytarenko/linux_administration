@@ -1,1 +1,1 @@
-find /tmp/ -type d \( -iname "*test_dir*"  ! -iname "test_dir_1" ! -name "test_dir_f" \) -exec rm -rf {} \;
+find /tmp/ -type d -iname "*test_dir*" -delete
