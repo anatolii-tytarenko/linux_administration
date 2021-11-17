@@ -1,0 +1,1 @@
+ls --hide=test_dir_[1f] |xargs cp -r -t /tmp/
