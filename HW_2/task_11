@@ -1,1 +1,1 @@
-ls -1A /etc/ | tee task_11.output
+find /etc/ -maxdepth 1 -mindepth 1 | tee task_11.output
