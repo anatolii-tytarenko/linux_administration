@@ -1,1 +1,1 @@
-cat task_8_test_[12a] | tr -d '\n' > task_8.output
+cat task_8_test_[12a] > task_8.output
