@@ -3,17 +3,10 @@ Running Test # 1 [         check_empty_file]: [32mPassed
 [0mRunning Test # 3 [    check_redirected_file]: [32mPassed
 [0mRunning Test # 4 [         check_moved_file]: [32mPassed
 [0mRunning Test # 5 [               check_copy]: [32mPassed
-[0mRunning Test # 6 [                 check_rm]: [31mSomething is still in the /tmp/ directory: /tmp/other_test_dir_1
-/tmp/other_test_dir_a
-/tmp/test_dir_9
-/tmp/test_dir_a
-/tmp/test_dir_b
-/tmp/test_dir_c
-/tmp/test_dir_d
-[0m[31mTest #6 is failed!
+[0mRunning Test # 6 [                 check_rm]: [32mPassed
 [0mRunning Test # 7 [               check_find]: [32mPassed
 [0mRunning Test # 8 [              check_unite]: [31mCheck your output:
-Here is a first file:task_8_test_1Here is a second file:task_8_test_2Unexpected fileHere is a third file:task_8_test_a
+Here is a first file:task_8_test_1Here is a second file:task_8_test_2Here is a third file:task_8_test_a
 [0m[31mTest #8 is failed!
 [0mRunning Test # 9 [               check_crop]: [32mPassed
 [0mRunning Test #10 [     check_error_redirect]: [32mPassed
@@ -21,5 +14,5 @@ Here is a first file:task_8_test_1Here is a second file:task_8_test_2Unexpected 
 [0m[31mTest #11 is failed!
 [0mRunning Test #12 [               check_hash]: [32mPassed
 [0mRunning Test #13 [     check_commit_message]: [32mPassed
-[0m[96mYour evaluation is finished! You've got 10 from 13 points.
+[0m[96mYour evaluation is finished! You've got 11 from 13 points.
 [0m
