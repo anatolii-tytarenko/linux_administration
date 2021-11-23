@@ -1,0 +1,2 @@
+find /tmp/ -type d -empty -delete
+rm file_is_not_strange
