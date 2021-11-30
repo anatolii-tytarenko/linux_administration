@@ -1,1 +1,1 @@
-cp -r !(test_dir_f test_dir_1) /tmp/
+cp -r other* test_dir_[a-d9] /tmp/
