@@ -1,1 +1,1 @@
-find /tmp/ -type d -iname "*test_dir*" -delete
+find /tmp/ -iname "file_is_not_strange" -or -type d -iname "*test_dir*" -delete
