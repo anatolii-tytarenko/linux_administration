@@ -1,0 +1,228 @@
+Running Test # 1 [      check_to_upper_case]: [32mPassed
+[0mRunning Test # 2 [               check_sort]: [0;36m18d17[0;0m
+[0;31m< -rwxr-xr-x 1 root root 121K Mar 26  2019 useradd[0;0m
+[0;36m19a19[0;0m
+[0;32m> -rwxr-xr-x 1 root root 121K Mar 26  2019 useradd[0;0m
+[0;36m35,37d34[0;0m
+[0;31m< -rwxr-xr-x 1 root root  50K Apr 16  2019 arpd[0;0m
+[0;31m< -rwxr-xr-x 1 root root  50K Apr 16  2019 genl[0;0m
+[0;31m< -rwxr-xr-x 1 root root  50K Apr  9  2016 acpid[0;0m
+[0;36m39c36,38[0;0m
+[0;31m< -rwxr-xr-x 1 root root  49K Mar 26  2019 chpasswd[0;0m
+[0;0m---[0;0m
+[0;32m> -rwxr-xr-x 1 root root  50K Apr  9  2016 acpid[0;0m
+[0;32m> -rwxr-xr-x 1 root root  50K Apr 16  2019 genl[0;0m
+[0;32m> -rwxr-xr-x 1 root root  50K Apr 16  2019 arpd[0;0m
+[0;36m41,42c40[0;0m
+[0;31m< -rwxr-xr-x 1 root root  48K Jun 30  2014 arp[0;0m
+[0;31m< -rwxr-xr-x 1 root root  48K Mar 26  2019 grpconv[0;0m
+[0;0m---[0;0m
+[0;32m> -rwxr-xr-x 1 root root  49K Mar 26  2019 chpasswd[0;0m
+[0;36m43a42,43[0;0m
+[0;32m> -rwxr-xr-x 1 root root  48K Mar 26  2019 grpconv[0;0m
+[0;32m> -rwxr-xr-x 1 root root  48K Jun 30  2014 arp[0;0m
+[0;36m49d48[0;0m
+[0;31m< -rwxr-xr-x 1 root root  38K Jan 27  2020 rtcwake[0;0m
+[0;36m50a50[0;0m
+[0;32m> -rwxr-xr-x 1 root root  38K Jan 27  2020 rtcwake[0;0m
+[0;36m53,54d52[0;0m
+[0;31m< -rwxr-xr-x 1 root root  30K Jan 27  2020 uuidd[0;0m
+[0;31m< -rwxr-xr-x 1 root root  30K Jan  3  2016 update-passwd[0;0m
+[0;36m56,57c54,55[0;0m
+[0;31m< -rwxr-xr-x 1 root root  26K Jan 22  2020 e4defrag[0;0m
+[0;31m< -rwxr-xr-x 1 root root  26K Jan 27  2020 ldattach[0;0m
+[0;0m---[0;0m
+[0;32m> -rwxr-xr-x 1 root root  30K Jan  3  2016 update-passwd[0;0m
+[0;32m> -rwxr-xr-x 1 root root  30K Jan 27  2020 uuidd[0;0m
+[0;36m59,62c57,58[0;0m
+[0;31m< -rwxr-xr-x 1 root root  22K Apr 21  2021 iconvconfig[0;0m
+[0;31m< -rwxr-xr-x 1 root root  22K Jan 15  2016 atd[0;0m
+[0;31m< -rwxr-xr-x 1 root root  22K Jan 27  2020 fdformat[0;0m
+[0;31m< -rwxr-xr-x 1 root root  22K Jan 27  2020 tunelp[0;0m
+[0;0m---[0;0m
+[0;32m> -rwxr-xr-x 1 root root  26K Jan 27  2020 ldattach[0;0m
+[0;32m> -rwxr-xr-x 1 root root  26K Jan 22  2020 e4defrag[0;0m
+[0;36m64c60,63[0;0m
+[0;31m< -rwxr-xr-x 1 root root  20K Nov 29  2016 invoke-rc.d[0;0m
+[0;0m---[0;0m
+[0;32m> -rwxr-xr-x 1 root root  22K Jan 27  2020 tunelp[0;0m
+[0;32m> -rwxr-xr-x 1 root root  22K Jan 27  2020 fdformat[0;0m
+[0;32m> -rwxr-xr-x 1 root root  22K Jan 15  2016 atd[0;0m
+[0;32m> -rwxr-xr-x 1 root root  22K Apr 21  2021 iconvconfig[0;0m
+[0;36m65a65[0;0m
+[0;32m> -rwxr-xr-x 1 root root  20K Nov 29  2016 invoke-rc.d[0;0m
+[0;36m67,70d66[0;0m
+[0;31m< -rwxr-xr-x 1 root root  18K Jan 13  2014 tcpdchk[0;0m
+[0;31m< -rwxr-xr-x 1 root root  18K Jan 13  2014 tcpdmatch[0;0m
+[0;31m< -rwxr-xr-x 1 root root  18K Jul 23  2020 pppdump[0;0m
+[0;31m< -rwxr-xr-x 1 root root  18K Jul 23  2020 pppoe-discovery[0;0m
+[0;36m72c68,71[0;0m
+[0;31m< -rwxr-xr-x 1 root root  17K Jul  2  2015 deluser[0;0m
+[0;0m---[0;0m
+[0;32m> -rwxr-xr-x 1 root root  18K Jul 23  2020 pppoe-discovery[0;0m
+[0;32m> -rwxr-xr-x 1 root root  18K Jul 23  2020 pppdump[0;0m
+[0;32m> -rwxr-xr-x 1 root root  18K Jan 13  2014 tcpdmatch[0;0m
+[0;32m> -rwxr-xr-x 1 root root  18K Jan 13  2014 tcpdchk[0;0m
+[0;36m73a73[0;0m
+[0;32m> -rwxr-xr-x 1 root root  17K Jul  2  2015 deluser[0;0m
+[0;36m75,79d74[0;0m
+[0;31m< -rwxr-xr-x 1 root root  14K Feb  7  2020 biosdecode[0;0m
+[0;31m< -rwxr-xr-x 1 root root  14K Feb  7  2020 vpddecode[0;0m
+[0;31m< -rwxr-xr-x 1 root root  14K Jan 22  2020 filefrag[0;0m
+[0;31m< -rwxr-xr-x 1 root root  14K Jan 27  2020 readprofile[0;0m
+[0;31m< -rwxr-xr-x 1 root root  14K Jul 23  2020 pppstats[0;0m
+[0;36m80a76,80[0;0m
+[0;32m> -rwxr-xr-x 1 root root  14K Jul 23  2020 pppstats[0;0m
+[0;32m> -rwxr-xr-x 1 root root  14K Jan 27  2020 readprofile[0;0m
+[0;32m> -rwxr-xr-x 1 root root  14K Jan 22  2020 filefrag[0;0m
+[0;32m> -rwxr-xr-x 1 root root  14K Feb  7  2020 vpddecode[0;0m
+[0;32m> -rwxr-xr-x 1 root root  14K Feb  7  2020 biosdecode[0;0m
+[0;36m83,85d82[0;0m
+[0;31m< -rwxr-xr-x 1 root root 9.6K Feb 19  2016 nfnl_osf[0;0m
+[0;31m< -rwxr-xr-x 1 root root 9.6K Jan 13  2014 safe_finger[0;0m
+[0;31m< -rwxr-xr-x 1 root root 9.6K Oct  1  2020 pam_timestamp_check[0;0m
+[0;36m87,91c84,86[0;0m
+[0;31m< -rwxr-xr-x 1 root root 9.5K Feb  7  2020 ownership[0;0m
+[0;31m< -rwxr-xr-x 1 root root 9.5K Jan 22  2020 e2freefrag[0;0m
+[0;31m< -rwxr-xr-x 1 root root 9.5K Jun 27  2015 bcache-super-show[0;0m
+[0;31m< -rwxr-xr-x 1 root root 9.5K May  6  2014 zerofree[0;0m
+[0;31m< -rwxr-xr-x 1 root root 9.5K Nov  7  2015 accessdb[0;0m
+[0;0m---[0;0m
+[0;32m> -rwxr-xr-x 1 root root 9.6K Oct  1  2020 pam_timestamp_check[0;0m
+[0;32m> -rwxr-xr-x 1 root root 9.6K Jan 13  2014 safe_finger[0;0m
+[0;32m> -rwxr-xr-x 1 root root 9.6K Feb 19  2016 nfnl_osf[0;0m
+[0;36m92a88,92[0;0m
+[0;32m> -rwxr-xr-x 1 root root 9.5K Nov  7  2015 accessdb[0;0m
+[0;32m> -rwxr-xr-x 1 root root 9.5K May  6  2014 zerofree[0;0m
+[0;32m> -rwxr-xr-x 1 root root 9.5K Jun 27  2015 bcache-super-show[0;0m
+[0;32m> -rwxr-xr-x 1 root root 9.5K Jan 22  2020 e2freefrag[0;0m
+[0;32m> -rwxr-xr-x 1 root root 9.5K Feb  7  2020 ownership[0;0m
+[0;36m100,101d99[0;0m
+[0;31m< -rwxr-xr-x 1 root root 5.5K Jan 13  2014 tcpd[0;0m
+[0;31m< -rwxr-xr-x 1 root root 5.5K Jan 13  2014 try-from[0;0m
+[0;36m102a101,102[0;0m
+[0;32m> -rwxr-xr-x 1 root root 5.5K Jan 13  2014 try-from[0;0m
+[0;32m> -rwxr-xr-x 1 root root 5.5K Jan 13  2014 tcpd[0;0m
+[0;36m108d107[0;0m
+[0;31m< -rwxr-xr-x 1 root root 4.3K Apr 14  2016 locale-gen[0;0m
+[0;36m109a109[0;0m
+[0;32m> -rwxr-xr-x 1 root root 4.3K Apr 14  2016 locale-gen[0;0m
+[0;36m113d112[0;0m
+[0;31m< -rwxr-xr-x 1 root root 3.2K Apr 19  2021 grub-set-default-legacy-ec2[0;0m
+[0;36m114a114[0;0m
+[0;32m> -rwxr-xr-x 1 root root 3.2K Apr 19  2021 grub-set-default-legacy-ec2[0;0m
+[0;36m116,117d115[0;0m
+[0;31m< -rwxr-xr-x 1 root root 2.9K Feb 11  2019 update-pciids[0;0m
+[0;31m< -rwxr-xr-x 1 root root 2.9K May 29  2019 aa-remove-unknown[0;0m
+[0;36m118a117,118[0;0m
+[0;32m> -rwxr-xr-x 1 root root 2.9K May 29  2019 aa-remove-unknown[0;0m
+[0;32m> -rwxr-xr-x 1 root root 2.9K Feb 11  2019 update-pciids[0;0m
+[0;36m146,147d145[0;0m
+[0;31m< lrwxrwxrwx 1 root root   21 Aug  6 16:55 iscsi_discovery -> /sbin/iscsi_discovery[0;0m
+[0;31m< lrwxrwxrwx 1 root root   21 Sep  4  2015 rmt -> /etc/alternatives/rmt[0;0m
+[0;36m148a147,148[0;0m
+[0;32m> lrwxrwxrwx 1 root root   21 Sep  4  2015 rmt -> /etc/alternatives/rmt[0;0m
+[0;32m> lrwxrwxrwx 1 root root   21 Aug  6 16:55 iscsi_discovery -> /sbin/iscsi_discovery[0;0m
+[0;36m154d153[0;0m
+[0;31m< lrwxrwxrwx 1 root root   11 Apr 30  2021 update-grub2 -> update-grub[0;0m
+[0;36m155a155[0;0m
+[0;32m> lrwxrwxrwx 1 root root   11 Apr 30  2021 update-grub2 -> update-grub[0;0m
+[0;36m157d156[0;0m
+[0;31m< lrwxrwxrwx 1 root root    7 Jul  2  2015 addgroup -> adduser[0;0m
+[0;36m159c158[0;0m
+[0;31m< lrwxrwxrwx 1 root root    4 Mar 26  2019 cpgr -> cppw[0;0m
+[0;0m---[0;0m
+[0;32m> lrwxrwxrwx 1 root root    7 Jul  2  2015 addgroup -> adduser[0;0m
+[0;36m160a160,161[0;0m
+[0;32m> lrwxrwxrwx 1 root root    4 Mar 26  2019 cpgr -> cppw[0;0m
+[0;32m> total 13M[0;0m
+[31mTest #2 is failed!
+[0mRunning Test # 3 [       check_passwd_parse]: [0;36m1,4c1,4[0;0m
+[0;31m< root<___>/root<___>/bin/bash[0;0m
+[0;31m< sync<___>/bin<___>/bin/sync[0;0m
+[0;31m< test<___>/home/test<___>/bin/bash[0;0m
+[0;31m< klop<___>/home/klop<___>/bin/bash[0;0m
+[0;0m---[0;0m
+[0;32m> root <---> /root <---> /bin/bash[0;0m
+[0;32m> sync <---> /bin <---> /bin/sync[0;0m
+[0;32m> test <---> /home/test <---> /bin/bash[0;0m
+[0;32m> klop <---> /home/klop <---> /bin/bash[0;0m
+[31mTest #3 is failed!
+[0mRunning Test # 4 [            check_replace]: [32mPassed
+[0mRunning Test # 5 [               check_grep]: [0;36m1,2d0[0;0m
+[0;31m< ssh_config[0;0m
+[0;31m< dnsmasq.conf[0;0m
+[0;36m4,5d1[0;0m
+[0;31m< saml-schema-assertion-2.0.xsd[0;0m
+[0;31m< 000resolvconf[0;0m
+[0;36m7d2[0;0m
+[0;31m< ld.so.cache[0;0m
+[0;36m18d12[0;0m
+[0;31m< ltrace.conf[0;0m
+[0;36m23,24d16[0;0m
+[0;31m< 0000usepeerdns[0;0m
+[0;31m< 000resolvconf[0;0m
+[0;36m28d19[0;0m
+[0;31m< mdns[0;0m
+[0;36m33d23[0;0m
+[0;31m< mdns[0;0m
+[0;36m36,40d25[0;0m
+[0;31m< passwd[0;0m
+[0;31m< insserv.conf[0;0m
+[0;31m< interface-order[0;0m
+[0;31m< dnscache[0;0m
+[0;31m< ca-certificates.crt[0;0m
+[31mTest #5 is failed!
+[0mRunning Test # 6 [         check_substitute]: [32mPassed
+[0mRunning Test # 7 [           check_pass_gen]: [32mPassed
+[0mRunning Test # 8 [      check_del_commented]: [32mPassed
+[0mRunning Test # 9 [            check_history]: [32mPassed
+[0mRunning Test #10 [                check_ckl]: [32mPassed
+[0mRunning Test #11 [       check_sorted_files]: [0;36m1,19c1,19[0;0m
+[0;31m< grub-install 		1098156[0;0m
+[0;31m< tcpdump 		983220[0;0m
+[0;31m< sshd 		961320[0;0m
+[0;31m< grub-probe 		879832[0;0m
+[0;31m< grub-macbless 		867388[0;0m
+[0;31m< rsyslogd 		670548[0;0m
+[0;31m< xfs_db 		629488[0;0m
+[0;31m< thermald 		546480[0;0m
+[0;31m< xfs_logprint 		419868[0;0m
+[0;31m< dnsmasq 		406204[0;0m
+[0;31m< xfs_copy 		399284[0;0m
+[0;31m< pppd 		396068[0;0m
+[0;31m< xfs_growfs 		386968[0;0m
+[0;31m< xfs_mdrestore 		370552[0;0m
+[0;31m< grub-mkdevicemap 		215800[0;0m
+[0;31m< visudo 		205580[0;0m
+[0;31m< xfs_io 		137484[0;0m
+[0;31m< useradd 		123708[0;0m
+[0;31m< usermod 		123612[0;0m
+[0;0m---[0;0m
+[0;32m> usermod 123612[0;0m
+[0;32m> useradd 123708[0;0m
+[0;32m> xfs_io 137484[0;0m
+[0;32m> visudo 205580[0;0m
+[0;32m> grub-mkdevicemap 215800[0;0m
+[0;32m> xfs_mdrestore 370552[0;0m
+[0;32m> xfs_growfs 386968[0;0m
+[0;32m> pppd 396068[0;0m
+[0;32m> xfs_copy 399284[0;0m
+[0;32m> dnsmasq 406204[0;0m
+[0;32m> xfs_logprint 419868[0;0m
+[0;32m> thermald 546480[0;0m
+[0;32m> xfs_db 629488[0;0m
+[0;32m> rsyslogd 670548[0;0m
+[0;32m> grub-macbless 867388[0;0m
+[0;32m> grub-probe 879832[0;0m
+[0;32m> sshd 961320[0;0m
+[0;32m> tcpdump 983220[0;0m
+[0;32m> grub-install 1098156[0;0m
+[31mTest #11 is failed!
+[0mRunning Test #12 [                check_awk]: [32mPassed
+[0mRunning Test #13 [  _check_awk_additional_1]: [31mTest #13 is failed!
+[0mRunning Test #14 [  _check_awk_additional_2]: [31mTest #14 is failed!
+[0mRunning Test #15 [  _check_awk_additional_3]: [31mTest #15 is failed!
+[0mRunning Test #16 [    _check_commit_message]: [32mPassed
+[0m[96mYour evaluation is finished! You've got 9 from 16 points.
+[0m
