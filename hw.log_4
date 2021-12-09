@@ -133,15 +133,14 @@ Running Test # 1 [      check_to_upper_case]: [32mPassed
 [0;31m< lrwxrwxrwx 1 root root    4 Mar 26  2019 cpgr -> cppw[0;0m
 [0;0m---[0;0m
 [0;32m> lrwxrwxrwx 1 root root    7 Jul  2  2015 addgroup -> adduser[0;0m
-[0;36m160a160,161[0;0m
+[0;36m160a160[0;0m
 [0;32m> lrwxrwxrwx 1 root root    4 Mar 26  2019 cpgr -> cppw[0;0m
-[0;32m> total 13M[0;0m
 [31mTest #2 is failed!
 [0mRunning Test # 3 [       check_passwd_parse]: [0;36m1,4c1,4[0;0m
-[0;31m< root<___>/root<___>/bin/bash[0;0m
-[0;31m< sync<___>/bin<___>/bin/sync[0;0m
-[0;31m< test<___>/home/test<___>/bin/bash[0;0m
-[0;31m< klop<___>/home/klop<___>/bin/bash[0;0m
+[0;31m< root<--->/root<--->/bin/bash[0;0m
+[0;31m< sync<--->/bin<--->/bin/sync[0;0m
+[0;31m< test<--->/home/test<--->/bin/bash[0;0m
+[0;31m< klop<--->/home/klop<--->/bin/bash[0;0m
 [0;0m---[0;0m
 [0;32m> root <---> /root <---> /bin/bash[0;0m
 [0;32m> sync <---> /bin <---> /bin/sync[0;0m
@@ -149,55 +148,32 @@ Running Test # 1 [      check_to_upper_case]: [32mPassed
 [0;32m> klop <---> /home/klop <---> /bin/bash[0;0m
 [31mTest #3 is failed!
 [0mRunning Test # 4 [            check_replace]: [32mPassed
-[0mRunning Test # 5 [               check_grep]: [0;36m1,2d0[0;0m
-[0;31m< ssh_config[0;0m
-[0;31m< dnsmasq.conf[0;0m
-[0;36m4,5d1[0;0m
-[0;31m< saml-schema-assertion-2.0.xsd[0;0m
-[0;31m< 000resolvconf[0;0m
-[0;36m7d2[0;0m
-[0;31m< ld.so.cache[0;0m
-[0;36m18d12[0;0m
-[0;31m< ltrace.conf[0;0m
-[0;36m23,24d16[0;0m
-[0;31m< 0000usepeerdns[0;0m
-[0;31m< 000resolvconf[0;0m
-[0;36m28d19[0;0m
-[0;31m< mdns[0;0m
-[0;36m33d23[0;0m
-[0;31m< mdns[0;0m
-[0;36m36,40d25[0;0m
-[0;31m< passwd[0;0m
-[0;31m< insserv.conf[0;0m
-[0;31m< interface-order[0;0m
-[0;31m< dnscache[0;0m
-[0;31m< ca-certificates.crt[0;0m
-[31mTest #5 is failed!
+[0mRunning Test # 5 [               check_grep]: [32mPassed
 [0mRunning Test # 6 [         check_substitute]: [32mPassed
 [0mRunning Test # 7 [           check_pass_gen]: [32mPassed
 [0mRunning Test # 8 [      check_del_commented]: [32mPassed
 [0mRunning Test # 9 [            check_history]: [32mPassed
 [0mRunning Test #10 [                check_ckl]: [32mPassed
 [0mRunning Test #11 [       check_sorted_files]: [0;36m1,19c1,19[0;0m
-[0;31m< grub-install 		1098156[0;0m
-[0;31m< tcpdump 		983220[0;0m
-[0;31m< sshd 		961320[0;0m
-[0;31m< grub-probe 		879832[0;0m
-[0;31m< grub-macbless 		867388[0;0m
-[0;31m< rsyslogd 		670548[0;0m
-[0;31m< xfs_db 		629488[0;0m
-[0;31m< thermald 		546480[0;0m
-[0;31m< xfs_logprint 		419868[0;0m
-[0;31m< dnsmasq 		406204[0;0m
-[0;31m< xfs_copy 		399284[0;0m
-[0;31m< pppd 		396068[0;0m
-[0;31m< xfs_growfs 		386968[0;0m
-[0;31m< xfs_mdrestore 		370552[0;0m
-[0;31m< grub-mkdevicemap 		215800[0;0m
-[0;31m< visudo 		205580[0;0m
-[0;31m< xfs_io 		137484[0;0m
-[0;31m< useradd 		123708[0;0m
 [0;31m< usermod 		123612[0;0m
+[0;31m< useradd 		123708[0;0m
+[0;31m< xfs_io 		137484[0;0m
+[0;31m< visudo 		205580[0;0m
+[0;31m< grub-mkdevicemap 		215800[0;0m
+[0;31m< xfs_mdrestore 		370552[0;0m
+[0;31m< xfs_growfs 		386968[0;0m
+[0;31m< pppd 		396068[0;0m
+[0;31m< xfs_copy 		399284[0;0m
+[0;31m< dnsmasq 		406204[0;0m
+[0;31m< xfs_logprint 		419868[0;0m
+[0;31m< thermald 		546480[0;0m
+[0;31m< xfs_db 		629488[0;0m
+[0;31m< rsyslogd 		670548[0;0m
+[0;31m< grub-macbless 		867388[0;0m
+[0;31m< grub-probe 		879832[0;0m
+[0;31m< sshd 		961320[0;0m
+[0;31m< tcpdump 		983220[0;0m
+[0;31m< grub-install 		1098156[0;0m
 [0;0m---[0;0m
 [0;32m> usermod 123612[0;0m
 [0;32m> useradd 123708[0;0m
@@ -224,5 +200,5 @@ Running Test # 1 [      check_to_upper_case]: [32mPassed
 [0mRunning Test #14 [  _check_awk_additional_2]: [31mTest #14 is failed!
 [0mRunning Test #15 [  _check_awk_additional_3]: [31mTest #15 is failed!
 [0mRunning Test #16 [    _check_commit_message]: [32mPassed
-[0m[96mYour evaluation is finished! You've got 9 from 16 points.
+[0m[96mYour evaluation is finished! You've got 10 from 16 points.
 [0m
